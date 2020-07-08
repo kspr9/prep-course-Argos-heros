@@ -1,0 +1,26 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+#welcome {
+  height:200px;
+  background-image: url('assets/data-information-knowledge-insight-wisdom.jpg');
+  background-size: contain;
+ }
+
+#history {
+    font-weight bold;
+}
+
+@font-face {
+  font-family:'arial';
+}
+
+.container{
+  background-color: lightseagreen;
+}
+
+h1{
+  background-color: lightgoldenrodyellow;
+  display: table;
+}
